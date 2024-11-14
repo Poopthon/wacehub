@@ -8,8 +8,9 @@ export const config = {
 export async function middleware(req: NextRequest) {
   try {
     if (await get('storeClosed')) {
-      req.nextUrl.pathname = `/_closed`
-      return NextResponse.rewrite(req.nextUrl)
+      const url = req.nextUrl.clone()
+      url.pathname = '/_closed'
+      return NextResponse.rewrite(url)
     }
   } catch (error) {
     console.error(error)
