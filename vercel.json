@@ -1,4 +1,0 @@
-{
-  "buildCommand": "npm run turbo build",
-  "ignoreCommand": "npm run dlx turbo-ignore"
-}
