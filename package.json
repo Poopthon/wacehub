@@ -27,7 +27,7 @@
     "@unocss/preset-icons": "0.64.1",
     "@unocss/preset-uno": "0.59.0-beta.1",
     "date-fns": "^4.1.0",
-    "eslint": "^8.57.0",
+    "eslint": "^9.15.0",
     "fs-extra": "^11.2.0",
     "gray-matter": "^4.0.3",
     "markdown-it": "^14.1.0",
