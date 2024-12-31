@@ -65,7 +65,7 @@ function nav() {
           link: 'https://www.linkedin.com/in/griffincastles/',
         },
         {
-          text: 'Kevin Vo t',
+          text: 'Kevin Vo test2',
           link: 'https://github.com/Poopthon',
         },
         {
