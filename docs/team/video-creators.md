@@ -3,15 +3,15 @@
 <!-- Blank page for now -->
 # Video Creators
 
-Here are the achievements of our talented video creators:
+Information on our video developers:
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;">
 
   <div style="border: 1px solid #ccc; padding: 16px; border-radius: 8px; text-align: center;">
-    <h3>Creator 1</h3>
-    <p>Achievement 1</p>
-    <p>Achievement 2</p>
-    <p>Achievement 3</p>
+    <h3>Sigma boy 1</h3>
+    <p> won the dirt eating competition</p>
+    <p> abc!@!#</p>
+    <p> personalegnds <3 tamed </p>
   </div>
 
   <div style="border: 1px solid #ccc; padding: 16px; border-radius: 8px; text-align: center;">
