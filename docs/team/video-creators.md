@@ -35,8 +35,10 @@ SCSA Certificate of Distinction
   </div>
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
-    <h3>Creator 6</h3>
-    <p></p>
+    <h3>Choyu</h3>
+    <p>ATAR 99+</p>
+    <p>AIO Gold Medalist</p>
+    <p>Graduated Perth Modern School in 2024</p>
   </div>
 
 </div>
