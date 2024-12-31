@@ -13,9 +13,7 @@ Information on our video developers:
 
   <div style="border: 1px solid #ccc; padding: 40px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff;">
     <h3>youtuber last name</h3>
-    <p>Hello my name is spec aka personalegends. I love chemistry and maths the reason why i love maths is because i hate myself (kidding!) 
-    my hobbies are: gaming rapping and dancing to tiktok dances or something idk testing the style omg this song is fireeeeee
-    tesing</p>
+    <p>Hello my name is spec aka personalegends. I love chemistry </p>
 
   </div>
 
