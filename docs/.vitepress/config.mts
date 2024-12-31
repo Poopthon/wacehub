@@ -65,7 +65,19 @@ function nav() {
           link: 'https://www.linkedin.com/in/griffincastles/',
         },
         {
-          text: 'Kevin hellooo t',
+          text: 'Kevin Vo t',
+          link: 'https://github.com/Poopthon',
+        },
+        {
+          text: 'Jon Cope',
+          link: 'https://github.com/Poopthon',
+        },
+        {
+          text: 'Mustafa Siddiqui',
+          link: 'https://github.com/Poopthon',
+        },
+        {
+          text: 'shinnyii',
           link: 'https://github.com/Poopthon',
         },
       ],
