@@ -16,7 +16,7 @@ Information on our video developers:
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
     <h3>shinnyii</h3>
-    <p>Subject Awards for spec, methods, physics, chem, 
+    <p>99.7 ATAR. Subject Awards for spec, methods, physics, chem, 
        ATAR Dux (and school record) 
        SCSA Distinction</p>
   </div>
