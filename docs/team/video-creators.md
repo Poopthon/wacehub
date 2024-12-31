@@ -6,22 +6,24 @@ Information on our video developers:
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
     <h3>Sigma boy 1</h3>
-    <p>Won the dirt eating competition, abc!@!#, Personal legends poop &lt;3 tamed</p>
+    <p>----</p>
   </div>
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
-    <h3>Creator 2</h3>
-    <p>Achievement 1, Achievement 2, Achievement 3</p>
+    <h3>Jon Cope</h3>
+    <p></p>
   </div>
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
-    <h3>Creator 3</h3>
-    <p>Achievement 1, Achievement 2, Achievement 3</p>
+    <h3></h3>
+    <p>Subject Awards for spec, methods, physics, chem, 
+       ATAR Dux (and school record) 
+       Scsa Distinction</p>
   </div>
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
-    <h3>Creator 4</h3>
-    <p>Achievement 1, Achievement 2, Achievement 3</p>
+    <h3>Mustafa</h3>
+    <p>just a chill guy</p>
   </div>
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
