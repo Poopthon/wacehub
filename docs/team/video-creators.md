@@ -8,7 +8,7 @@ Information on our video developers:
     <h3>Sigma boy 1</h3>
     <p>Won the dirt eating competition</p>
     <p>abc!@!#</p>
-    <p>Personal legends &lt;3 tamed</p>
+    <p>Personal legends111 &lt;3 tamed</p>
   </div>
 
   <div style="border: 1px solid #ccc; padding: 32px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff;">
