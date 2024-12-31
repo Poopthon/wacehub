@@ -6,9 +6,10 @@ Information on our video developers:
 
   <div style="border: 1px solid #ccc; padding: 40px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff;">
     <h3>Sigma boy 1</h3>
-    <p>Won the dirt eating competition</p>
-    <p>abc!@!#</p>
-    <p>Personal legends poop &lt;3 tamed</p>
+    <p>Subject Award for spec, methods, physics, chem, 
+ATAR Dux (and school record) 
+Scsa Distinction</p>
+
   </div>
 
   <div style="border: 1px solid #ccc; padding: 40px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff;">
