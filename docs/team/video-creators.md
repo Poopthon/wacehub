@@ -28,8 +28,10 @@ Information on our video developers:
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
     <h3>PersonaLegends</h3>
-    <p>ATAR DUX
-        SCSA Distinction</p>
+    <p>ATAR 98.90 ATAR
+Subject awards for: Mathematics Specialist, Mathematics Methods, Physics, Chemistry, Computer Science. ATAR DUX
+SCSA Certificate of Distinction
+Just a chill guy who likes math</p>
   </div>
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
