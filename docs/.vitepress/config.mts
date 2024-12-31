@@ -58,32 +58,21 @@ function nav() {
     { text: 'Introduction', link: '/introduction/', activeMatch: '/introduction/' },
     { text: 'Blog', link: '/blog/', activeMatch: '/blog/' },
     {
-      text: 'Developers',
+      text: 'The WACEHUB Team',
       items: [
         {
-          text: 'Griffin',
-          link: 'https://www.linkedin.com/in/griffincastles/',
+          text: 'Website developers',
+          link: '/team/website-developers/', // Internal route
         },
         {
-          text: 'Kevin Vo test2',
-          link: 'https://github.com/Poopthon',
-        },
-        {
-          text: 'Jon Cope',
-          link: 'https://github.com/Poopthon',
-        },
-        {
-          text: 'Mustafa',
-          link: 'https://github.com/Poopthon',
-        },
-        {
-          text: 'shinnyii',
-          link: 'https://github.com/Poopthon',
+          text: 'Video creators',
+          link: '/team/video-creators/', // Internal route
         },
       ],
     },
-  ]
+  ];
 }
+
 
 function sidebarGuide() {
   return [
