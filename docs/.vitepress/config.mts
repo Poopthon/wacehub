@@ -73,7 +73,7 @@ function nav() {
           link: 'https://github.com/Poopthon',
         },
         {
-          text: 'Mustafa Siddiqui',
+          text: 'Mustafa',
           link: 'https://github.com/Poopthon',
         },
         {
