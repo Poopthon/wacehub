@@ -18,7 +18,7 @@ Information on our video developers:
     <h3>shinnyii</h3>
     <p>Subject Awards for spec, methods, physics, chem, 
        ATAR Dux (and school record) 
-       Scsa Distinction</p>
+       SCSA Distinction</p>
   </div>
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
@@ -27,8 +27,9 @@ Information on our video developers:
   </div>
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
-    <h3>Creator 5</h3>
-    <p>Achievement 1, Achievement 2, Achievement 3</p>
+    <h3>PersonaLegends</h3>
+    <p>ATAR DUX
+        SCSA Distinction</p>
   </div>
 
   <div style="border: 1px solid #ccc; padding: 60px; border-radius: 12px; text-align: center; background-color: #1e293b; color: #ffffff; height: 350px; overflow: hidden;">
