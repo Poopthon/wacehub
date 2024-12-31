@@ -1,6 +1,6 @@
 # Video Creators
 
-Information on our video developers:
+Information on our video developer:
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 40px; justify-content: center; align-items: center; width: 100%; max-width: 1200px; margin: 0 auto;">
 
