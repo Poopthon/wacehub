@@ -23,7 +23,7 @@
     "@iconify-json/fluent-emoji": "^1.1.18",
     "@iconify-json/heroicons-outline": "^1.1.10",
     "@iconify-json/logos": "^1.1.42",
-    "@types/node": "^20.12.4",
+    "@types/node": "^22.10.2",
     "@unocss/preset-icons": "0.65.2",
     "@unocss/preset-uno": "0.64.1",
     "date-fns": "^4.1.0",
