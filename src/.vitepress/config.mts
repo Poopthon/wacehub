@@ -14,8 +14,8 @@ export default defineConfig({
 
   themeConfig: {
     footer: {
-      message: 'Built with ❤️ by the WaceHub team. Powered by VitePress and UnoCSS. A fork of SFXCode.',
-      copyright: 'Copyright © 2024 WaceHub',
+      message: 'Built with ❤️ by the WaceHub team. Powered by VitePress and UnoCSS.',
+      copyright: 'Copyright © 2025 WaceHub',
     },
 
     search: {
@@ -58,15 +58,15 @@ function nav() {
     { text: 'Introduction', link: '/introduction/', activeMatch: '/introduction/' },
     { text: 'Blog', link: '/blog/', activeMatch: '/blog/' },
     {
-      text: 'The WACEHUB Team',
+      text: 'The Team',
       items: [
         {
           text: 'Website developers',
-          link: '/team/website-developers/', // Internal route
+          link: '/team/webdevelopers/',
         },
         {
           text: 'Video creators',
-          link: '/team/video-creators/', // Internal route
+          link: '/team/videocreators/',
         },
       ],
     },

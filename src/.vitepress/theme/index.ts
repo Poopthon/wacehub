@@ -8,6 +8,7 @@ import PostDetail from './components/blog/PostDetail.vue'
 import PostIcon from './components/blog/PostIcon.vue'
 import PostAuthor from './components/blog/PostAuthor.vue'
 import AuthorDetail from './components/blog/AuthorDetail.vue'
+import teammember from './components/team/teammember.vue'
 
 export default {
   ...DefaultTheme,
@@ -20,5 +21,6 @@ export default {
     app.component('PostIcon', PostIcon)
     app.component('PostAuthor', PostAuthor)
     app.component('AuthorDetail', AuthorDetail)
+    app.component('teammember', teammember)
   },
 }
