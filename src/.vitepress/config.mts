@@ -27,7 +27,7 @@ export default defineConfig({
     ],
 
     editLink: {
-      pattern: 'https://github.com/Poopthon/wacehub/edit/main/docs/:path',
+      pattern: 'https://github.com/Poopthon/wacehub/edit/main/src/:path',
       text: 'Edit this page on GitHub',
     },
 
