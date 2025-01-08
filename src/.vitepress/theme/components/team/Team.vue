@@ -40,7 +40,7 @@ export default defineComponent({
 
 <style scoped>
 .team-container {
-  background: var(--background-color); /* Matches the site's default */
+  background: var(--background-color);
   padding: 40px;
   border-radius: 12px;
 }
@@ -49,7 +49,7 @@ export default defineComponent({
   font-size: 2.5rem;
   font-weight: 700;
   text-align: center;
-  color: var(--primary-color); /* Update to match the site theme */
+  color: var(--primary-color);
   margin-bottom: 30px;
 }
 
