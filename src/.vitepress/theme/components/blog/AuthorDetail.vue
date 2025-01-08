@@ -45,7 +45,7 @@ const { currentAuthor: author, path, prevAuthor, nextAuthor } = useAuthors()
 </template>
 
 <style scoped>
-.vp-doc h1, h2, h3, hr {
+.vp-doc h1, h2, h3 {
   margin: 12px 0 0 0;
 }
 </style>

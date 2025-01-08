@@ -1,4 +1,3 @@
-import Unocss from 'unocss/vite'
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
@@ -14,7 +13,7 @@ export default defineConfig({
 
   themeConfig: {
     footer: {
-      message: 'Built with ❤️ by the WaceHub team. Powered by VitePress and UnoCSS.',
+      message: 'Built with ❤️ by the WaceHub team.',
       copyright: 'Copyright © 2025 WaceHub',
     },
 
@@ -36,40 +35,16 @@ export default defineConfig({
     sidebar: {
       '/introduction/': sidebarGuide(),
     },
-
-    blog: {
-      title: 'WaceHub Blog',
-      description: 'Tips, tricks, and updates from the WaceHub team.',
-    },
   },
 
   title: 'WaceHub',
-  vite: {
-    plugins: [
-      Unocss({
-        configFile: '../../unocss.config.ts',
-      }),
-    ],
-  },
 })
 
 function nav() {
   return [
     { text: 'Introduction', link: '/introduction/', activeMatch: '/introduction/' },
-    { text: 'Blog', link: '/blog/', activeMatch: '/blog/' },
-    {
-      text: 'The Team',
-      items: [
-        {
-          text: 'Website developers',
-          link: '/team/webdevelopers/',
-        },
-        {
-          text: 'Video creators',
-          link: '/team/videocreators/',
-        },
-      ],
-    },
+    // { text: 'Blog', link: '/blog/', activeMatch: '/blog/' },
+    { text: "Team", link: "/team/", activeMatch: "/team/" },
   ];
 }
 
@@ -81,13 +56,6 @@ function sidebarGuide() {
       collapsible: true,
       items: [
         { text: 'What is this?', link: '/introduction/' },
-      ],
-    },
-    {
-      text: 'Features',
-      collapsible: true,
-      items: [
-        { text: 'UnoCSS', link: '/guide/features/unocss' },
       ],
     },
   ]
