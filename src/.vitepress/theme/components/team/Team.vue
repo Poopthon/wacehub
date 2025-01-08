@@ -10,7 +10,7 @@
 <script lang="ts">
 import { defineComponent, ref, onMounted } from 'vue';
 import TeamMember from './teammember.vue';
-import teamMembersData from './teamMembers.json';
+import teamMembersData from './teammembers.json';
 
 interface TeamMember {
   name: string;
