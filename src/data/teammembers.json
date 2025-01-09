@@ -3,21 +3,21 @@
     "name": "ibnafe",
     "role": "Founder, Video Creator & Developer",
     "bio": "The guy that only studies econ",
-    "avatar": "/images/avatars/ibnafe.png"
+    "avatar": "/public/images/avatars/ibnafe.png"
   },
 
   {
     "name": "Midnightific",
     "role": "Video Creator & Developer",
     "bio": "spread joy in the world, and always remember, you are loved. carpe diem!",
-    "avatar": "/images/avatars/Midnightific.png"
+    "avatar": "/public/images/avatars/Midnightific.png"
   },
 
   {
     "name": "Moonful",
     "role": "Video Creator",
     "bio": "Basically god but human",
-    "avatar": "/images/avatars/Moonful.png"
+    "avatar": "/public/images/avatars/Moonful.png"
   },
 
 
@@ -25,41 +25,41 @@
     "name": "Mr Plips",
     "role": "Video Creator",
     "bio": "95.05 atar, Bachelor in Engineering - Majoring in Mechatronics, Math Applications subject award",
-    "avatar": "/images/avatars/MrPlips.png"
+    "avatar": "/public/images/avatars/MrPlips.png"
   },
 
   {
     "name": "PersonaLegends",
     "role": "Video Creator",
     "bio": "ATAR Dux, Awards for Specialist, Methods, Physics, Chemistry, Computer Science. Double Bachelor in Engineering honours (majoring software engineering) and Philosophy honours (majoring mathematics)",
-    "avatar": "/images/avatars/PersonaLegends.png"
+    "avatar": "/public/images/avatars/PersonaLegends.png"
   },
 
   {
     "name": "rain",
     "role": "Video Creator",
     "bio": "rain.",
-    "avatar": "/images/avatars/rain.png"
+    "avatar": "/public/images/avatars/rain.png"
   },
 
   {
     "name": "shinnyii",
     "role": "Video Creator",
     "bio": "99.7 ATAR. Subject Awards for spec, methods, physics, chem, ATAR Dux (and school record), SCSA Distinction",
-    "avatar": "/images/avatars/shinnyii.png"
+    "avatar": "/public/images/avatars/shinnyii.png"
   },
 
   {
     "name": "spec",
     "role": "Video Creator",
     "bio": "just a chill guy",
-    "avatar": "/images/avatars/spec.png"
+    "avatar": "/public/images/avatars/spec.png"
   },
 
   {
     "name": "Spedry",
     "role": "Video Creator & Developer",
     "bio": "ATAR 99+, AIO Gold Medalist, graduated Perth Modern School in 2024",
-    "avatar": "/images/avatars/Spedry.png"
+    "avatar": "/public/images/avatars/Spedry.png"
   }
 ]
