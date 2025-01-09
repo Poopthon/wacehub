@@ -39,25 +39,29 @@ const handlePress = (link: string) => {
 
 export default function Features() {
   return (
-    <section id="features" className="scroll-mt-28 mb-28 px-4">
-      <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6">
+    <section id='features' className='scroll-mt-28 mb-28 px-4'>
+      <h1 className='text-4xl text-center font-montserrat font-bold text-gray-800 mb-10'>
+        Resources
+      </h1>
+
+      <div className='max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6'>
         {features.map((feature, index) => (
           <Card
             key={index}
             isPressable
             onPress={() => handlePress(feature.link)}
-            className="bg-white rounded-lg p-5 flex flex-col items-center shadow-md transition-transform duration-300 hover:scale-105 hover:shadow-lg"
+            className='bg-white rounded-lg p-5 flex flex-col items-center shadow-md transition-transform duration-300 hover:scale-105 hover:shadow-lg'
           >
-            <CardHeader className="pb-0 pt-2 px-4 flex-col items-center text-center">
+            <CardHeader className='pb-0 pt-2 px-4 flex-col items-center text-center'>
               {feature.icon}
-              <p className="text-lg font-bold mt-4 text-gray-900">
+              <p className='text-lg text-center items-center font-bold mt-4 text-gray-900'>
                 {feature.title}
-              </p>{" "}
-              <small className="text-gray-400">{feature.description}</small>{" "}
+              </p>{' '}
+              <small className='text-gray-400'>{feature.description}</small>{' '}
             </CardHeader>
           </Card>
         ))}
       </div>
     </section>
-  );
+  )
 }
