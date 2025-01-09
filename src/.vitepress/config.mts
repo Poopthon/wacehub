@@ -32,9 +32,9 @@ export default defineConfig({
 
     nav: nav(),
 
-    sidebar: {
-      '/introduction/': sidebarGuide(),
-    },
+    // sidebar: {
+    //   '/introduction/': sidebarGuide(),
+    // },
   },
 
   title: 'WaceHub',
@@ -42,21 +42,21 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: 'Introduction', link: '/introduction/', activeMatch: '/introduction/' },
+    // { text: 'Introduction', link: '/introduction/', activeMatch: '/introduction/' },
     // { text: 'Blog', link: '/blog/', activeMatch: '/blog/' },
-    { text: "Team", link: "/team/", activeMatch: "/team/" },
+    { text: "Team", link: "/team/", activeMatch: "/team/" }
   ];
 }
 
 
-function sidebarGuide() {
-  return [
-    {
-      text: 'Introduction',
-      collapsible: true,
-      items: [
-        { text: 'What is this?', link: '/introduction/' },
-      ],
-    },
-  ]
-}
+// function sidebarGuide() {
+//   return [
+//     {
+//       text: 'Introduction',
+//       collapsible: true,
+//       items: [
+//         { text: 'What is this?', link: '/introduction/' },
+//       ],
+//     },
+//   ]
+// }
