@@ -19,6 +19,13 @@ interface TeamMember {
   avatar: string;
 }
 
+function preloadImages(urls: string[]) {
+  urls.forEach((url) => {
+    const img = new Image();
+    img.src = url;
+  });
+}
+
 export default defineComponent({
   name: 'Team',
   components: {
@@ -29,6 +36,8 @@ export default defineComponent({
 
     onMounted(() => {
       teamMembers.value = teamMembersData;
+      const avatarUrls = teamMembersData.map((member) => member.avatar);
+      preloadImages(avatarUrls);
     });
 
     return {
