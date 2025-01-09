@@ -4,6 +4,11 @@ export default defineConfig({
   base: '/',
   description: 'Your home for everything Wace.',
   lang: "en-AU",
+  title: "WaceHub",
+
+  head: [
+    ["link", { rel: "icon", href: "/favicon.ico" }],
+  ],
 
   markdown: {
     headers: {
@@ -35,9 +40,7 @@ export default defineConfig({
     // sidebar: {
     //   '/introduction/': sidebarGuide(),
     // },
-  },
-
-  title: 'WaceHub',
+  }
 })
 
 function nav() {
