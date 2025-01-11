@@ -17,12 +17,19 @@ const Navbar: React.FC = () => {
             >
               Home
             </Link>
-            {/* <Link
+            <Link
               href="/team"
               className="text-gray-700 hover:text-gray-900 transition-colors duration-300"
             >
               Team
-            </Link> */}
+            </Link>
+
+            <Link
+              href="/database"
+              className="text-gray-700 hover:text-gray-900 transition-colors duration-300"
+            >
+              Database
+            </Link>
           </div>
 
           <div className="flex items-center space-x-4">

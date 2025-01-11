@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { Card, CardHeader } from '@nextui-org/react';
-import teamMembersData from '../data/teammembers.json';
+import teamMembersData from '../../data/teammembers.json';
 
 interface TeamMember {
   name: string;
