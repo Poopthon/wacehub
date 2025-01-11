@@ -29,6 +29,7 @@ const Team = () => {
 
   return (
     <section id='team' className='scroll-mt-28 mb-28 px-4'>
+      <div style={{ height: '90px' }} />
       <h1 className='text-4xl text-center font-montserrat font-bold text-gray-800 mb-10'>
         Our Team
       </h1>
